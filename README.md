@@ -33,3 +33,9 @@ docker build -t demo .
 ```
 docker run -it --name hello -p 3000:3000 demo
 ```
+
+## Reports + Slides
+- [Slide](https://goo.gl/x7zzk9)
+- [Report - CongTH](https://goo.gl/tay3to)
+- [Report - ThienNK](https://goo.gl/HdLHPp)
+- [Report - CamVT](https://goo.gl/cLy2ek)
