@@ -37,5 +37,5 @@ docker run -it --name hello -p 3000:3000 demo
 ## Reports + Slides
 - [Slide](https://goo.gl/x7zzk9)
 - [Report - CongTH](https://goo.gl/tay3to)
-- [Report - ThienNK](https://goo.gl/HdLHPp)
+- [Report - ThienNK](https://docs.google.com/document/d/1fafzN1MGgEwZXqbPD9t0VopTRsfvh-Rf6gXJ-1sdEHc)
 - [Report - CamVT](https://goo.gl/cLy2ek)
